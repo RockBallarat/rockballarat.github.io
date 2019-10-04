@@ -1940,6 +1940,51 @@ body {
   text-align: center;
   color: #000000;
 }
+.cid-rDTA7UQ5Oy {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #f7c298;
+}
+.cid-rDTA7UQ5Oy h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rDTA7UQ5Oy p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rDTA7UQ5Oy .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rDTA7UQ5Oy .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rDTA7UQ5Oy .mbr-text {
+  color: #767676;
+}
+.cid-rDTA7UQ5Oy .card-wrapper {
+  height: 100%;
+  background: #91d2d8;
+}
+@media (max-width: 767px) {
+  .cid-rDTA7UQ5Oy .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rDTA7UQ5Oy H2 {
+  text-align: center;
+}
+.cid-rDTA7UQ5Oy .card-title {
+  text-align: center;
+}
+.cid-rDTA7UQ5Oy .mbr-text,
+.cid-rDTA7UQ5Oy .mbr-section-btn {
+  text-align: center;
+  color: #000000;
+}
 .cid-rCfv3toPU5 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2055,4 +2100,7 @@ body {
   .cid-rDDvtlCCl4 .form-group {
     margin: 0;
   }
+}
+.cid-rDDvtlCCl4 .foot-logo {
+  text-align: left;
 }
